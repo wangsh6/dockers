@@ -1,1 +1,1 @@
-qdrant/qdrant
+qdrant/qdrant:gpu-nvidia-latest
