@@ -1,1 +1,3 @@
-qdrant/qdrant:gpu-nvidia-latest
+ubuntu:20.04
+mysql
+redis
